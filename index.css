@@ -61,5 +61,19 @@ span {
 }
 
 hr {
-    
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.option {
+    width: 211px;
+    height: 39px;
+    background: #d8b49d;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    font-size: 25px;
+    color: #fff;
 }
