@@ -4,12 +4,3 @@ let password = document.getElementById("password")
 let passwordLength = 15
 
 
- function generatePwd() {
-     
-     for (let i = 0; i < passwordLength; i ++) {
-         let randomChars = Math.floor(Math.random() * chars.length) 
-          chars[randomChars]
-     }
- }
-
- console.log(generatePwd())
